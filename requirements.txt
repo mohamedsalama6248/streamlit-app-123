@@ -56,7 +56,7 @@ python-pptx==1.0.2
 pytweening==1.2.0
 pytz==2024.2
 pywhatkit==5.4
-pywin32==307
+pywin32==308
 referencing==0.36.2
 requests==2.32.3
 rich==13.9.4
